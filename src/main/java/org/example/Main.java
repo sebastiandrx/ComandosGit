@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("Prueba comandos Git");
         System.out.println("Prueba del comando git merge");
+        System.out.println("Probando git merge");
+        System.out.println("Holaa");
         }
     }
